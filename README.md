@@ -30,3 +30,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 <img width="35" alt="image" src="https://github.com/user-attachments/assets/2f41c7cd-5ea8-4475-b451-a37161b6c3fb"> 
 <img width="35" alt="image" src="https://github.com/user-attachments/assets/77649969-9910-4994-8b96-74a116cfb2a8">
 -->
+
+## 🐍 BenjiClock HUD — Frameless Python Always-on-Top Clock
+
+- **[Python HUD clock(Benjiclock)](https://github.com/pedro33parreira/Frameless-BenjiClock-HUD-Gaming-clock)**
