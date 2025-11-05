@@ -12,6 +12,12 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/pedro33parreira/Threat-Hunting-Scenario-TOR)**
 
+
+## 🐍 BenjiClock HUD — Frameless Python Always-on-Top Clock
+
+- **[Python HUD clock(Benjiclock)](https://github.com/pedro33parreira/Frameless-BenjiClock-HUD-Gaming-clock)**
+
+
 <hr/>
 
 ## 🤳 Connect With Me
@@ -31,6 +37,3 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 <img width="35" alt="image" src="https://github.com/user-attachments/assets/77649969-9910-4994-8b96-74a116cfb2a8">
 -->
 
-## 🐍 BenjiClock HUD — Frameless Python Always-on-Top Clock
-
-- **[Python HUD clock(Benjiclock)](https://github.com/pedro33parreira/Frameless-BenjiClock-HUD-Gaming-clock)**
