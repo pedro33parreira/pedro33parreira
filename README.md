@@ -6,12 +6,17 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 ## ⚠️ Vulnerability Management Projects
 
 - **[Vulnerability Management Program Implementation](https://github.com/pedro33parreira/Vulnerability-Management-Program-PP)**
-- **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/joshcybertest/programmatic-vulnerability-remediations)**
 
 ## 🚨 Threat Hunting and Security Operations
 
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/pedro33parreira/Threat-Hunting-Scenario-TOR)**
 - **[Shinobi Threat Hunting Scenario](https://github.com/pedro33parreira/Shinobi-Threat-Hunt)**
+
+## 🐍 Python Projects
+
+- **[🐍 BenjiClock Gaming HUD – Auto-Fit Fonts, Colors & Always-on-Top ⏰](https://github.com/pedro33parreira/Frameless-BenjiClock-HUD-Gaming-clock)**
+
+-
 
 <hr/>
 
