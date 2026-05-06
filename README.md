@@ -5,7 +5,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 ## 🌐 Networking
 
-- **[🌐 DHCP Relay & Routing Lab](https://github.com/pedro33parreira/DHCP)**
+- **[🖧 DHCP Relay & Routing Lab](https://github.com/pedro33parreira/DHCP)**
 
 ## ⚠️ Vulnerability Management Projects
 
