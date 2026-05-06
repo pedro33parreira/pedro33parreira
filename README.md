@@ -21,7 +21,6 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 - **[🐍 BenjiClock Gaming HUD – Auto-Fit Fonts, Colors & Always-on-Top ⏰](https://github.com/pedro33parreira/Frameless-BenjiClock-HUD-Gaming-clock)**
 
--
 
 <hr/>
 
