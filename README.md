@@ -10,12 +10,12 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 ## ⚠️ Vulnerability Management Projects
 
 - **[🛡️ Windows 11 STIG Remediation Lab](https://github.com/pedro33parreira/-Windows-11-STIG-Remediation-Lab)**
-- **[Vulnerability Management Program Implementation](https://github.com/pedro33parreira/Vulnerability-Management-Program-PP)**
+- **[🔍 Vulnerability Management Program Implementation](https://github.com/pedro33parreira/Vulnerability-Management-Program-PP)**
 
 ## 🚨 Threat Hunting and Security Operations
 
 - **[🕵️ Threat Hunting Scenario (Tor Browser Usage)](https://github.com/pedro33parreira/Threat-Hunting-Scenario-TOR)**
-- **[Port of Entry Threat Hunting Scenario](https://github.com/pedro33parreira/Port-of-Entry-Threat-Hunt)**
+- **[🚨 Port of Entry Threat Hunting Scenario](https://github.com/pedro33parreira/Port-of-Entry-Threat-Hunt)**
 
 ## 🐍 Python Projects
 
